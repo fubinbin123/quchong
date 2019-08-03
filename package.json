@@ -1,0 +1,13 @@
+{
+    "name":"my-demo-fu",
+    "version": "0.1.0",
+    "description":"this is my first time to make a article",
+    "main":"index.js",
+    "scripts":{
+    },
+    "keywords":[],
+    "license":"ISC",
+    "author":"fubinbin",
+    "dependencies":{},
+    "devDependencies":{}
+}
